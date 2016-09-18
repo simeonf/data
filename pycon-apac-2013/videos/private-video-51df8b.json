@@ -1,0 +1,13 @@
+{
+  "description": "This video is private.",
+  "recorded": "",
+  "speakers": [],
+  "thumbnail_url": null,
+  "title": "Private video",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=QKkXc4CbM-8"
+    }
+  ]
+}

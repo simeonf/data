@@ -1,0 +1,13 @@
+{
+  "description": "\"Go\" is a quite contemporary programming language which is strongly inspired by our great language Python. I will present pros/cons of both Python and Go and introduction of Go from Python perspective so that all Pythonistas would have an extra choice to solve speed and concurrency oriented problems.",
+  "recorded": "",
+  "speakers": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/e2qBHHb4sgo/hqdefault.jpg",
+  "title": "Go for Pythonistas by Yoshifumi Yamaguchi",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=e2qBHHb4sgo"
+    }
+  ]
+}
